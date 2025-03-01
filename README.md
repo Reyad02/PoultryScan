@@ -7,6 +7,7 @@ This repository contains the implementation of a disease detection system for po
 - [Dataset](#dataset)
 - [Models](#models)
 - [Training and Testing](#training-and-testing)
+- [Experimental Design](#experimental-design)
 - [License](#license)
 
 ## Introduction
@@ -29,6 +30,9 @@ The following models are used in this project:
 
 ## Training and Testing
 The dataset is divided into 80% for training and 20% for testing. Each model is trained on the training set and evaluated on the test set to measure its performance.
+
+## Experimental Design
+![image_alt](https://github.com/Reyad02/PoultryScan/blob/2a7eccf69f75a1feef434312be0c8034cec5a467/Experimental_%20Design.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
